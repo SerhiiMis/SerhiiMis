@@ -14,13 +14,13 @@
 - 🎓 Currently studying Computer Science and Machine Learning
 - 👷 Background in industrial automation, robotics, and quality systems (FMEA, OEE, MSA)
 - 🔁 Transitioning into tech with a focus on backend development and PLC programming
-- 🧠 Always learning — currently exploring: **Python, C++, FastAPI, SQLAlchemy, Docker, PLCs (Siemens, Fanuc, KUKA)**
+- 🧠 Always learning — currently exploring: **Python, C++, FastAPI, SQLAlchemy, Docker, PLCs (Beckhoff, Siemens), Fanuc, KUKA**
 
 ---
 
 ### 🛠 Tech Stack
 
-- **Languages**: Python, SQL, Bash
+- **Languages**: JavaScript, Python, SQL, Bash
 - **Frameworks**: FastAPI, Pydantic, Alembic
 - **Tools**: Docker, PostgreSQL, Git, Linux, Redis
 - **Others**: Cloudinary, Sphinx, GitHub Actions, pytest
