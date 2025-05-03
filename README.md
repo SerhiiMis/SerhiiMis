@@ -4,7 +4,7 @@
 
 
 🚀 Passionate about blending engineering with code  
-🛠️ Process Engineer | Future PLC Automation Programmer  
+🛠️ Process Engineer | Computer Science Student  
 🌍 Based in the Czech Republic
 
 ---
@@ -24,7 +24,7 @@
 - **Frameworks**: FastAPI, Pydantic, Alembic
 - **Tools**: Docker, PostgreSQL, Git, Linux, Redis
 - **Others**: Cloudinary, Sphinx, GitHub Actions, pytest
-- **Engineering**: PLC logic, robotics, industrial automation
+- **Engineering**: Electrical engineering, PLC logic, robotics, industrial automation
 
 ---
 
