@@ -11,7 +11,7 @@
 
 ### 💻 About Me
 
-- 🎓 Currently studying Computer Science and Machine Learning
+- 🎓 Currently studying Computer Science and Data Science
 - 👷 Background in industrial automation, robotics, and quality systems (FMEA, OEE, MSA)
 - 🔁 Transitioning into tech with a focus on backend development and PLC programming
 - 🧠 Always learning — currently exploring: **Python, C++, FastAPI, SQLAlchemy, Docker, PLCs (Beckhoff, Siemens), Fanuc, KUKA**
@@ -24,7 +24,7 @@
 - **Frameworks**: FastAPI, Pydantic, Alembic
 - **Tools**: Docker, PostgreSQL, Git, Linux, Redis
 - **Others**: Cloudinary, Sphinx, GitHub Actions, pytest
-- **Engineering**: Electrical engineering, PLC logic, robotics, industrial automation
+- **Engineering**: Electrical engineering, Mechanical Engineering, PLC logic, robotics, industrial automation
 
 ---
 
