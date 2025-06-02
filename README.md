@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Serhii Mishovych
+# Hi there 👋 I'm Serhii
 
 > “Code is the bridge between the physical and digital worlds – I’m walking it every day.”
 
